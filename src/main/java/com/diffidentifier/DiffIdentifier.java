@@ -16,7 +16,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Properties;
 
-public class PopulateDiff {
+public class DiffIdentifier {
 
     public static JSONObject getPropertyFileDiff (String fileOne,String fileTwo) throws Exception
     {
